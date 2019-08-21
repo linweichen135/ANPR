@@ -1,0 +1,5 @@
+add_data.py : 將一組同label的資料新增到現有的dataset中
+auto_add_data.sh : 將一群依label作資料夾名稱擺放的資料新增到現有的dataset中 (無參數化，需視環境更改變數)
+csv2txt.py : 將dataset.csv轉換成txt格式
+DataMaker.py : dataset的GUI製作工具
+data_statistics.py : 統計dataset中各label的資料數量

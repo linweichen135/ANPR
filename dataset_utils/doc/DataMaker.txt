@@ -1,0 +1,7 @@
+使用 - 
+    1.備妥DataMaker.py和location.py，並置於同一資料夾
+    2.建立一個資料夾並放入車牌照片，此資料夾除了照片以外不能有其他檔案
+    3.建立一個資料夾用來存放車牌字母和label檔案
+    4.執行DataMaker.py(指令: python DataMaker.py [srcData_directory] [tgtData_directory] [label_filename])
+產出 - 
+    檔名 : [label]_[時間].png
